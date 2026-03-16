@@ -1,0 +1,7 @@
+CREATE SCHEMA IF NOT EXISTS app;
+
+CREATE TABLE IF NOT EXISTS app.categories (
+    category_pk BIGSERIAL PRIMARY KEY,
+    category_name TEXT UNIQUE NOT NULL
+);
+

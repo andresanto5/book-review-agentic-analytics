@@ -1,0 +1,7 @@
+CREATE SCHEMA IF NOT EXISTS app;
+
+CREATE TABLE IF NOT EXISTS app.authors (
+    author_pk BIGSERIAL PRIMARY KEY,
+    author_name TEXT UNIQUE NOT NULL
+);
+

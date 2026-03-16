@@ -1,0 +1,101 @@
+book_pk,title,publisher,published_year,review_count,avg_score
+29058,The Hobbit,Mariner Books,2012.0,22023,4.657131181038006
+28439,Pride and Prejudice,Courier Corporation,,20371,4.527661872269403
+35126,Atlas Shrugged,,,12513,4.028690162231279
+59404,Wuthering Heights,Library of Alexandria,,10780,4.053710575139147
+33370,To Kill A Mockingbird,Harper Collins,,9601,4.549109467763775
+61017,Of Mice And Men,Penguin,,9420,4.3504246284501065
+89772,"The Hobbit; Or, There and Back Again",,,8800,4.660909090909091
+172890,Great expectations,,,8244,4.089762251334304
+13350,The Giver,Harcourt Brace,,7644,4.2734170591313445
+153,The Scarlet Letter A Romance,,,6876,3.8093368237347294
+36777,Harry Potter and The Sorcerer's Stone,Bloomsbury Publishing,,6796,4.73925838728664
+23409,"Little women, or, Meg, Jo, Beth, and Amy","Little, Brown Books for Young Readers",,6598,4.445286450439527
+40193,THE CATCHER IN THE RYE,"Little, Brown",,6540,4.016819571865444
+17574,The Picture of Dorian Gray,,,6538,4.272254512083206
+10765,Brave New World,Random House,,6312,4.235266159695818
+116385,Lord of the Flies,Penguin,,6226,3.921940250562159
+3468,Mere Christianity,Harper Collins,,6053,4.469684453989757
+26314,Persuasion,"Little, Brown,",1899.0,5498,4.386686067660968
+19806,The Great Gatsby,Pan Macmillan,,5291,4.151200151200151
+20308,The Hitchhiker's Guide to the Galaxy,Harmony,1994.0,5052,4.457640538400633
+1252,Fahrenheit 451,,2012.0,4932,4.158150851581508
+84483,EAST OF EDEN,,,4561,4.6062267046700285
+159001,The Hobbit There and Back Again,,1966.0,4438,4.657503379900856
+29231,Alice's Adventures in Wonderland,The Floating Press,,4433,4.252424994360478
+5971,"The Hobbitt, or there and back again; illustrated by the author.",Houghton Mifflin Harcourt,2013.0,4420,4.658597285067874
+6005,Little Women,Lindhardt og Ringhof,,4176,4.449233716475096
+11776,Catch 22,Simon and Schuster,,4169,4.390981050611657
+110427,Gone with the Wind,Random House,,3948,4.708459979736576
+3176,A Tree Grows in Brooklyn,Random House,,3904,4.706711065573771
+1215,1984,Singel Uitgeverijen,,3774,4.5646528881823
+4221,Ulysses,,1984.0,3665,3.8256480218281035
+143220,Stranger in a Strange Land,Hachette UK,,3657,3.9688269073010662
+83870,Holes,Yearling,,3568,4.622477578475336
+73202,"Moby Dick, or, The Whale",Рипол Классик,,3399,4.041482789055604
+168795,The Catcher in the Rye [Audiobook] [Cd] [Unabridged] (Audio CD),"North Star Editions, Inc.",,3270,4.016207951070337
+4394,The Stranger,Orion,,3223,4.157927396835246
+5957,"ERAGON: INHERITANCE, BOOK ONE.",Random House,2005.0,3137,3.834874083519286
+63000,Harry Potter and the Chamber of Secrets,Raincoast Books,1999.0,3137,4.731590691743704
+129482,"Lord of the Flies, a Novel",LJ Veen Klassiek,,3111,3.92124718739955
+23443,Hatchet,Simon and Schuster,,3076,4.37516254876463
+210516,Unfit for Command: Swift Boat Veterans Speak Out Against John Kerry,Primento,,3025,3.489586776859504
+5952,Jane Eyre,,,3025,4.488925619834711
+71629,Slaughterhouse-Five,Dial Press Trade Paperback,,2975,4.327058823529412
+99560,Harry Potter & the Prisoner of Azkaban,McFarland,,2947,4.795045809297591
+3058,Night,Applesauce Press,,2874,4.571677105080028
+82043,Starship Troopers,Penguin,1987.0,2864,4.432960893854749
+181624,Blink: The Power of Thinking Without Thinking,Back Bay Books,,2855,3.6970227670753064
+22371,Zen and the Art of Motorcycle Maintenance,Harper Collins,,2843,3.999648258881463
+63033,Hannibal,Dell,,2800,3.0421428571428573
+51730,The Richest Man in Babylon,,,2794,4.622047244094488
+82951,Hannibal (Hannibal Lecter),Delta,,2793,3.0393841747225205
+47448,Twenty thousand leagues under the sea,Library of Alexandria,,2788,4.14454806312769
+121592,"Rich Dad, Poor Dad",Techpr Incorporated,1998.0,2734,3.7585954645208486
+31069,Crime and Punishment,Courier Corporation,2001.0,2704,4.394600591715976
+39267,Memoirs of a Geisha (Signed),Vintage,,2693,4.386929075380617
+7854,Man's Search for Meaning,,,2607,4.729574223245109
+31364,"Crossroads of Twilight (The Wheel of Time, Book 10)",Tor Fantasy,,2526,1.8024544734758512
+138429,Left Behind - A Novel Of The Earth's Last Days,"Tyndale House Publishers, Inc.",2011.0,2515,4.016302186878727
+34120,Alice's Adventures in Wonderland and Through the Looking Glass,Simon and Schuster,,2489,4.094415427882684
+124762,"The Lord Of The Rings THREE VOLUME BOXED SET (The Fellowship Of The Ring, The Return of The King, The Two towers)",,2007.0,2479,4.578459056070996
+97532,The Lord of the Rings (3 Volume Set),,1996.0,2478,4.578288942695722
+149182,The Lord of the Rings Trilogy: Three Volumes in Slipcase,,,2478,4.578288942695722
+195969,The Lord of the Rings Trilogy 3 Volumes,,1973.0,2471,4.577094293808175
+113595,"The Lord of the Rings Trilogy (The Fellowship of the Ring, The Two Towers, The Return of the King, I, II, III)",Mariner Books,,2470,4.576923076923077
+32943,The Lord of the Rings - Boxed Set,HarperCollins,,2469,4.576751721344674
+81926,The Lord of the Rings Box Set,,,2456,4.574918566775244
+19629,Ulysses.,,1984.0,2444,3.8256955810147297
+17166,The Fountainhead,Penguin Modern Classics,2007.0,2437,4.099302421009438
+649,Foundation,Van Haren,,2432,4.277138157894737
+171527,To Kill a Mocking Bird,Dramatic Publishing,1970.0,2404,4.547004991680533
+148703,Harper Lee's To Kill a Mockingbird (Barron's Book Notes),Turtleback Books,,2396,4.556761268781302
+210610,"Killing Floor (Jack Reacher, No. 1)",,,2342,4.106746370623399
+137202,Bridget Jones's Diary,Penguin,2001.0,2248,4.096085409252669
+171510,The Alchemist: A Fable about Following Your Dream,Createspace Independent Publishing Platform,,2220,4.076576576576577
+55555,Treasure Island,Bantam Classics,1883.0,2184,4.303571428571429
+17846,The Bear and the Dragon,Penguin,,2179,2.468563561266636
+117382,Wuthering Heights (Signet classics),Signet,1993.0,2160,4.05462962962963
+160757,A Fine Balance,Vintage,,2117,4.433632498819083
+30177,Cat's Cradle,Dial Press,,2086,4.417545541706615
+8190,The Two Towers,HarperCollins UK,2007.0,2077,4.66779008184882
+40981,Five People You Meet in Heaven,Hachette Books,,2057,4.089450656295576
+142577,Pride & Prejudice (Penguin Classics),HarperCollins,,2043,4.529123837493882
+25963,Pride & Prejudice (New Windmill),HarperCollins,,2040,4.5284313725490195
+44956,Pride & Prejudice (Classic Library),HarperCollins,,2038,4.527968596663396
+25564,A Christmas Carol (Classic Fiction),,,2028,4.686390532544379
+117071,The Count of Monte Cristo,,1846.0,2007,4.5874439461883405
+56553,A Tale of Two Cities - Literary Touchstone Edition,Prestwick House Inc,2005.0,1970,4.16243654822335
+113581,The Autobiography of Benjamin Franklin,Createspace Independent Publishing Platform,,1955,4.189769820971867
+26601,Emma,Penguin Classics,2015.0,1936,4.231404958677686
+72429,Nineteen Eighty-four,Penguin Classics,2013.0,1894,4.563357972544878
+81606,George Orwell 1984,epubli,,1883,4.562931492299522
+113931,Who Moved My Cheese? An-Amazing Way to Deal with Change in Your Work and in Your Life,Penguin,,1882,3.334218916046759
+191573,Path of Daggers (Wheel of Time 08),Tor Books,,1840,2.848913043478261
+94486,"A Feast for Crows (A Song of Ice and Fire, Book Four)",Bantam,2014.0,1832,3.355349344978166
+92542,Charlotte's web,,,1831,4.706717640633533
+13817,The Old Man and the Sea,Hueber Verlag,1975.0,1830,4.038251366120218
+33651,Foundation and Empire,SUNY Press,,1827,4.277504105090312
+1429,One Hundred Years of Solitude,Everyman's Library,1995.0,1814,4.2392502756339585
+91919,"Wizard's First Rule (Sword of Truth, Book 1)",,,1804,3.9057649667405765
+9068,The Princess Bride,Simon and Schuster,,1804,4.490022172949002
