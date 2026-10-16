@@ -1,3 +1,44 @@
+# Book Review Agentic Analytics
+
+**Proof of concept · Technical hiring challenge · Python / LangGraph / MCP / FastAPI / pgvector / Amazon Bedrock**
+
+An analytics assistant that combines structured queries and semantic retrieval over book reviews, then uses Amazon Bedrock to generate a response grounded in the retrieved results.
+
+## Portfolio overview
+
+Developed as a proof of concept for a technical hiring challenge. The project demonstrates application design, tool orchestration, retrieval and integration with a managed language-model service.
+
+| Question | Approach |
+| --- | --- |
+| Which books have the best ratings? | Structured queries and aggregations |
+| What do reviewers say about a book? | Embeddings and semantic retrieval |
+| Why does a ranked book stand out? | Structured results combined with retrieved review context |
+
+### Engineering decisions
+
+- Explicit routing between structured, semantic and hybrid workflows.
+- Controlled MCP tools provide database access; generated responses use tool results.
+- PostgreSQL/pgvector supports relational analytics and vector retrieval.
+- FastAPI separates the HTTP interface from agent orchestration.
+- The dashboard exposes the agent flow, tool calls and execution metadata.
+
+### AWS experience demonstrated
+
+The AWS component is **Amazon Bedrock integration at the application layer**, including configurable model selection and a fallback path described below. The proof of concept uses a local application stack connected to Bedrock. Production cloud deployment, infrastructure as code, IAM design, centralized monitoring, load testing and measured operating costs are areas for future extension and validation.
+
+### Validation status
+
+This repository is a technical demonstration. Setup instructions, example requests and test commands are documented below. A reproducible run should record the dataset version, environment, model access, test results and measured latency before making performance claims.
+
+### Suggested next iteration
+
+1. Document a small reproducible dataset and expected example outputs.
+2. Record automated test results and retrieval/answer evaluation.
+3. Add a short demo and measured latency/cost observations.
+4. Develop and validate an AWS deployment as a separate, documented milestone.
+
+## Documentação técnica em português
+
 # Plataforma de Analytics Agêntico de Reviews de Livros
 
 ## 1. Visão geral e objetivo
