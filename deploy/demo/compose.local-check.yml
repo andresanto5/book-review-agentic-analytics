@@ -1,0 +1,8 @@
+# Use only for local infrastructure checks. No AWS credentials are forwarded.
+services:
+  api:
+    environment:
+      AWS_EC2_METADATA_DISABLED: 'true'
+  mcp:
+    environment:
+      AWS_EC2_METADATA_DISABLED: 'true'

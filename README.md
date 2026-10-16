@@ -1,5 +1,7 @@
 # Book Review Agentic Analytics
 
+> **Free local validation:** [reproducible demo without AWS calls](docs/DEMO_GRATUITA.md). Real SQL/MCP/vector retrieval over synthetic data, with explicitly simulated final generation. [Local checks](docs/VALIDACAO_LOCAL.md) · [Semantic retrieval checks](docs/VALIDACAO_SEMANTICA.md). AWS deployment remains a future validation milestone.
+
 **Proof of concept · Technical hiring challenge · Python / LangGraph / MCP / FastAPI / pgvector / Amazon Bedrock**
 
 An analytics assistant that combines structured queries and semantic retrieval over book reviews, then uses Amazon Bedrock to generate a response grounded in the retrieved results.

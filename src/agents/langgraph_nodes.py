@@ -29,7 +29,7 @@ Este módulo concentra:
 
 # Keywords that indicate the user is asking about data we do NOT have (sales, revenue, etc.)
 OUT_OF_SCOPE_KEYWORDS = [
-    "vendido", "vendidos", "venda", "vendas", "faturamento", "faturar", "fatura",
+    "vendido", "vendidos", "vendeu", "venderam", "venda", "vendas", "faturamento", "faturar", "fatura",
     "lucro", "lucros", "receita", "receitas", "estoque", "margem", "margens",
     "sold", "sales", "revenue", "profit", "profits", "stock", "margin", "margins",
     "earnings", "turnover", "market share", "sold units", "unidades vendidas",

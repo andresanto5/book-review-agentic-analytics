@@ -26,7 +26,7 @@ def _configure_logging() -> None:
 
 def get_connection() -> Connection:
     _configure_logging()
-    logger.info("Opening database connection to %s", db_settings.dsn)
+    logger.info("Opening database connection host=%s port=%s db=%s", db_settings.host, db_settings.port, db_settings.db)
     return psycopg.connect(db_settings.dsn)
 
 
